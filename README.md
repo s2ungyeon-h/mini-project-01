@@ -12,9 +12,7 @@
     * 분석 결과를 바탕으로 한 서비스 개선 방향 제안
 
 ### 📊 분석 핵심 결과 (Key Drivers)
-<img width="842" height="472" alt="image" src="https://github.com/user-attachments/assets/9564b4cf-731e-4e65-8730-7c0e312fca01" />
-
-
+<img width="838" height="467" alt="image" src="https://github.com/user-attachments/assets/f2a861cb-bd1e-4337-b016-e6f4ec6ea340" />
 
 
 
