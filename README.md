@@ -19,6 +19,10 @@
 ### 🤖 모델 성능 및 평가
 <img width="842" height="467" alt="image" src="https://github.com/user-attachments/assets/bd416cde-f384-4d66-8bfe-f6f27b5b3297" />
 
+### 🎯 서비스 개선 방향
+<img width="841" height="469" alt="image" src="https://github.com/user-attachments/assets/2e2458e3-3832-4c15-90d7-6cf4311ec1c9" />
+
+
 
 ---
 
