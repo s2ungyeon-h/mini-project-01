@@ -12,8 +12,9 @@
     * 분석 결과를 바탕으로 한 서비스 개선 방향 제안
 
 ### 📊 분석 핵심 결과 (Key Drivers)
-<img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/74daf256-bcf2-4a13-aea2-0c62a36fb288" />
-* 분석 결과, 'Inflight wifi service'와 'Online boarding'이 만족도에 가장 큰 영향을 미치는 것으로 나타났습니다.
+<img width="944" height="532" alt="image" src="https://github.com/user-attachments/assets/330fdf08-4894-48a7-b2d5-d22cf4c8829f" />
+
+
 
 ### 🤖 모델 성능 및 평가
 <img width="946" height="532" alt="image" src="https://github.com/user-attachments/assets/f6a18ce2-70b4-4add-80ad-e2102d770507" />
