@@ -1,7 +1,8 @@
-# ✈️ AI 기반 고객 만족도 분석 및 예측 프로젝트
-> **AIVLE SCHOOL 미니 프로젝트 1차**
+# ✈️ 1차 미니 프로젝트
 
-본 프로젝트는 Kaggle의 'Airline Passenger Satisfaction' 데이터셋을 활용하여 고객 만족도에 영향을 미치는 핵심 요인을 분석하고, 이를 예측하는 최적의 AI 모델을 구축하는 것을 목표로 합니다.
+> *다각도 세그먼트 분석을 통해 타겟별 핵심 만족 요인을 발굴하고, 이를 서비스 전략으로 연결한 고객 경험(CX) 데이터 분석 프로젝트**
+
+---
 
 ## 📌 프로젝트 개요
 * **배경**: 설문 데이터상 점수는 높으나 실제 고객 불만이 증가하는 문제를 해결하기 위해 데이터 기반의 심층 분석 필요
@@ -10,10 +11,23 @@
     * AI 모델을 통한 만족도 예측 (Satisfied vs Neutral/Dissatisfied)
     * 분석 결과를 바탕으로 한 서비스 개선 방향 제안
 
-## 📂 파일 구성
-* `01 - 탐색적 데이터 분석.ipynb`: 데이터 전처리, 가설 수립 및 시각화 분석
-* `02 - 기본 모델링.ipynb`: 가변수화, 데이터 분리 및 초기 모델 학습/평가
-* `03 - 모델 추가 학습.ipynb`: 전처리 파이프라인 구축 및 미세 조정을 통한 성능 향상
+### 📊 분석 핵심 결과 (Key Drivers)
+<img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/74daf256-bcf2-4a13-aea2-0c62a36fb288" />
+* 분석 결과, 'Inflight wifi service'와 'Online boarding'이 만족도에 가장 큰 영향을 미치는 것으로 나타났습니다.
+
+### 🤖 모델 성능 및 평가
+<img width="946" height="532" alt="image" src="https://github.com/user-attachments/assets/f6a18ce2-70b4-4add-80ad-e2102d770507" />
+
+---
+
+### 💡 배운 점 및 개선할 점
+#### ✅ 배운 점
+- 추후 추가 예정
+- 추후 추가 예정
+
+#### 🚀 개선할 점
+- 추후 추가 예정
+- 추후 추가 예정
 
 
 
