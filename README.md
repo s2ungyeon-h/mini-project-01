@@ -13,6 +13,8 @@
 
 ### 📊 분석 핵심 결과 (Key Drivers)
 <img width="838" height="467" alt="image" src="https://github.com/user-attachments/assets/f2a861cb-bd1e-4337-b016-e6f4ec6ea340" />
+- Ease of Online booking(온라인 예약 편의성), Online boarding(온라인 탑승수속), Inflight wifi service(기내 와이파이 서비스)가 공통적으로 상위권에 포함
+- 
 
 
 
